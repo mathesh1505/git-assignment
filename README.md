@@ -68,9 +68,65 @@ Merge the new branch.
 Push changes to the original branch 
 
 <img width="628" height="195" alt="Screenshot 2025-10-19 222244" src="https://github.com/user-attachments/assets/1b3ccd44-f32b-4109-9187-7c0bfbe3cf6c" />
+
 # Question 3
 # Step 1:
 Create a feature branch. 
+
+<img width="651" height="74" alt="Screenshot 2025-10-19 230051" src="https://github.com/user-attachments/assets/bceed325-a71e-458c-8cc4-e2a6fb065c82" />
+
+# Step 2: 
+
+Switch to the new branch. 
+
+<img width="684" height="64" alt="Screenshot 2025-10-19 230100" src="https://github.com/user-attachments/assets/dd7add59-0a30-4470-9563-0eb8c9d5f0a4" />
+
+# Step 3: 
+open the file and make some changes to it. 
+
+<img width="758" height="129" alt="Screenshot 2025-10-19 230118" src="https://github.com/user-attachments/assets/8cb10103-0af7-4e4c-9a36-e3d63aebb631" />
+
+# Step 4:
+Add and commit the changes to the new branch. 
+
+<img width="934" height="194" alt="Screenshot 2025-10-19 230132" src="https://github.com/user-attachments/assets/e5f5c0cb-6af1-48f5-a585-693d6d2487f2" />
+
+# Step 5:
+Push the changes to the new feature branch. 
+
+<img width="789" height="288" alt="Screenshot 2025-10-19 230142" src="https://github.com/user-attachments/assets/515804f2-da3b-4bed-891c-68052d0e8ff5" />
+
+# Step 6: 
+Create a pull request. 
+
+<img width="1334" height="891" alt="Screenshot 2025-10-19 225027" src="https://github.com/user-attachments/assets/b7ee829c-0f63-42e8-ae42-f48abebe3174" />
+
+# Step 7:
+As another user in the master branch make some changes to the same file. 
+<img width="1334" height="826" alt="Screenshot 2025-10-19 225205" src="https://github.com/user-attachments/assets/32d48c88-459a-4283-87a7-a4eaf8b289db" />
+
+# Step 8:
+Add and commit the changes to the master branch. 
+
+<img width="917" height="295" alt="Screenshot 2025-10-19 230225" src="https://github.com/user-attachments/assets/e7961629-b3cb-4b05-8aef-48b88d6e58d5" />
+
+# Step 9:
+Push the changes to the master branch. 
+<img width="1330" height="873" alt="Screenshot 2025-10-19 225939" src="https://github.com/user-attachments/assets/dbd09879-2882-4fcc-9a18-a4acc46d4de1" />
+
+# Hint: git rebase 
+<img width="641" height="76" alt="Screenshot 2025-10-19 230320" src="https://github.com/user-attachments/assets/ba088601-2e5c-4687-84b4-951811835fdd" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
