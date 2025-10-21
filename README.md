@@ -1,4 +1,4 @@
-# GIT ASSIGNMENT:
+<img width="976" height="1008" alt="Screenshot 2025-10-21 211522" src="https://github.com/user-attachments/assets/0c85d30d-f898-473f-bad8-c1b736039692" /># GIT ASSIGNMENT:
 # Question 1 
 # Step 1:
 Create a new Git repository.
@@ -117,15 +117,41 @@ Push the changes to the master branch.
 # Hint: git rebase 
 <img width="641" height="76" alt="Screenshot 2025-10-19 230320" src="https://github.com/user-attachments/assets/ba088601-2e5c-4687-84b4-951811835fdd" />
 
+# Question 4:
+# Step 1: 
+Create a feature branch. 
+<img width="733" height="193" alt="Screenshot 2025-10-21 204728" src="https://github.com/user-attachments/assets/a432b9b0-cdf9-4c03-979b-697a4c0ec38f" />
 
+# Step 2:
+Switch to the new branch. 
+<img width="944" height="226" alt="Screenshot 2025-10-21 204743" src="https://github.com/user-attachments/assets/fe597a21-6067-4c47-8fbe-519727b12fcd" />
+<img width="957" height="317" alt="Screenshot 2025-10-21 204759" src="https://github.com/user-attachments/assets/f8a6ef4d-74bc-459c-aaf1-8be71d36e34b" />
 
+# Step 3: 
+Identify the commit or commits that you want to "cherry-pick"(Note the hash of the commit or commits that you want to "cherry-pick") 
+<img width="913" height="281" alt="Screenshot 2025-10-21 204809" src="https://github.com/user-attachments/assets/061c3610-8822-4428-a555-72341d42ebce" />
 
+# Step 4:
+Use the "git checkout" command to switch to the branch where you want to apply the changes. 
+<img width="822" height="101" alt="Screenshot 2025-10-21 204815" src="https://github.com/user-attachments/assets/2af0af04-56ac-460b-af3a-8aaa6352a3d1" />
 
+# Step 5: 
+Use the "git cherry-pick" command followed by the commit hash(es) that you want to apply. 
+<img width="626" height="283" alt="Screenshot 2025-10-21 204826" src="https://github.com/user-attachments/assets/50065c44-fda3-4d6f-b0ea-597a2ae5547b" />
 
+# Question 5:
 
+# Step 1: 
+Create a feature branch. 
+<img width="733" height="193" alt="Screenshot 2025-10-21 204728" src="https://github.com/user-attachments/assets/d7755492-b5e7-49c3-9364-1a57b96f62ea" />
 
+# Step 2:
+Switch to the new branch. 
+<img width="944" height="226" alt="Screenshot 2025-10-21 204743" src="https://github.com/user-attachments/assets/55941e8b-bb64-4fd7-a019-fbd54f4a5fed" />
+<img width="957" height="317" alt="Screenshot 2025-10-21 204759" src="https://github.com/user-attachments/assets/ebfb1785-6c1e-46cc-9dd3-938f879aa82a" />
 
-
+# Step 3: 
+Use the "git log" command to view the commit history and identify the commit to which you want to reset. 
 
 
 
