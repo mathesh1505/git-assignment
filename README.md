@@ -1,4 +1,4 @@
-<img width="976" height="1008" alt="Screenshot 2025-10-21 211522" src="https://github.com/user-attachments/assets/0c85d30d-f898-473f-bad8-c1b736039692" /># GIT ASSIGNMENT:
+# ASSIGNMENT:
 # Question 1 
 # Step 1:
 Create a new Git repository.
@@ -153,7 +153,7 @@ Switch to the new branch.
 # Step 3: 
 Use the "git log" command to view the commit history and identify the commit to which you want to reset. 
 
-
+<img width="976" height="1008" alt="Screenshot 2025-10-21 211522" src="https://github.com/user-attachments/assets/0c85d30d-f898-473f-bad8-c1b736039692" /># GIT 
 
 
 
