@@ -121,6 +121,7 @@ Push the changes to the master branch.
 # Question 4
 
 # Step 1: 
+
 Create a feature branch. 
 <img width="733" height="193" alt="Screenshot 2025-10-21 204728" src="https://github.com/user-attachments/assets/a432b9b0-cdf9-4c03-979b-697a4c0ec38f" />
 
@@ -144,6 +145,7 @@ Use the "git cherry-pick" command followed by the commit hash(es) that you want 
 # Question 5
 
 # Step 1: 
+
 Create a feature branch. 
 <img width="733" height="193" alt="Screenshot 2025-10-21 204728" src="https://github.com/user-attachments/assets/d7755492-b5e7-49c3-9364-1a57b96f62ea" />
 
