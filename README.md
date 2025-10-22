@@ -70,6 +70,7 @@ Push changes to the original branch
 <img width="628" height="195" alt="Screenshot 2025-10-19 222244" src="https://github.com/user-attachments/assets/1b3ccd44-f32b-4109-9187-7c0bfbe3cf6c" />
 
 # Question 3
+
 # Step 1:
 Create a feature branch. 
 
@@ -117,7 +118,8 @@ Push the changes to the master branch.
 # Hint: git rebase 
 <img width="641" height="76" alt="Screenshot 2025-10-19 230320" src="https://github.com/user-attachments/assets/ba088601-2e5c-4687-84b4-951811835fdd" />
 
-# Question 4:
+# Question 4
+
 # Step 1: 
 Create a feature branch. 
 <img width="733" height="193" alt="Screenshot 2025-10-21 204728" src="https://github.com/user-attachments/assets/a432b9b0-cdf9-4c03-979b-697a4c0ec38f" />
@@ -139,7 +141,7 @@ Use the "git checkout" command to switch to the branch where you want to apply t
 Use the "git cherry-pick" command followed by the commit hash(es) that you want to apply. 
 <img width="626" height="283" alt="Screenshot 2025-10-21 204826" src="https://github.com/user-attachments/assets/50065c44-fda3-4d6f-b0ea-597a2ae5547b" />
 
-# Question 5:
+# Question 5
 
 # Step 1: 
 Create a feature branch. 
@@ -153,12 +155,24 @@ Switch to the new branch.
 # Step 3: 
 Use the "git log" command to view the commit history and identify the commit to which you want to reset. 
 
-<img width="976" height="1008" alt="Screenshot 2025-10-21 211522" src="https://github.com/user-attachments/assets/0c85d30d-f898-473f-bad8-c1b736039692" /># GIT 
+<img width="976" height="1008" alt="Screenshot 2025-10-21 211522" src="https://github.com/user-attachments/assets/0c85d30d-f898-473f-bad8-c1b736039692" />
 
+# Step 4:
+Use the "git reset" command followed by the desired reset type and the commit hash 
+<img width="840" height="60" alt="Screenshot 2025-10-22 121954" src="https://github.com/user-attachments/assets/2f42132a-e5fb-4b80-9986-3651da96f9e4" />
+# Step 5: 
+Verify that the reset was successful by using the "git log" command again.  
+<img width="821" height="243" alt="Screenshot 2025-10-22 122002" src="https://github.com/user-attachments/assets/588f0d47-03b4-4966-8b71-daf4bc2df94a" />
+# Step 6: 
+Use the "git log" command to view the commit history and identify the commit that you want to reverse. 
+<img width="775" height="350" alt="Screenshot 2025-10-22 122010" src="https://github.com/user-attachments/assets/db33b394-fee2-4b4f-ac76-52ec243f086a" />
+# Step 7: 
+Use the "git revert" command followed by the commit hash or reference to which you want to revert. (Hint: git revert <commit hash>) 
+<img width="752" height="228" alt="Screenshot 2025-10-22 122132" src="https://github.com/user-attachments/assets/87f52618-a2dc-4d14-8c17-342cddf1c99a" />
 
-
-
-
+# Step 8:
+Verify that the revert was successful by using the "git log" command again. 
+<img width="720" height="275" alt="Screenshot 2025-10-22 122200" src="https://github.com/user-attachments/assets/691f3e99-5442-49c3-91ee-208a6a279dc2" />
 
 
 
